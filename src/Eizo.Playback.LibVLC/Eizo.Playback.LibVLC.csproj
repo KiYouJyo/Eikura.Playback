@@ -3,7 +3,7 @@
     <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
     <AssemblyName>Eizo.Playback.LibVLC</AssemblyName>
     <RootNamespace>Eizo.Playback.Backends.LibVLC</RootNamespace>
-    <Description>LibVLC backend adapter for Eizo.Playback.</Description>
+    <Description>LibVLC backend adapter for Eikura.Playback.</Description>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,10 +1,12 @@
-# Eizo.Playback
+# Eikura Playback
 
-Playback abstraction and LibVLC adapter layer for **Eizo**.
+> Compatibility note: package IDs, assemblies, namespaces, and solution/project paths remain `Eizo.Playback.*` in the 1.3.2 migration cycle so existing component-update and NuGet consumers remain compatible.
+
+Playback abstraction and LibVLC adapter layer for **Eikura**.
 
 ## Goals
 
-- Keep Eizo's WinUI 3 UI independent from LibVLC types.
+- Keep Eikura's WinUI 3 UI independent from LibVLC types.
 - Provide a stable playback contract for local and future remote media sources.
 - Keep backend-specific code isolated so another backend can be added later without rewriting the UI.
 - Ship with automated build, compatibility and contract tests from the start.
@@ -37,7 +39,7 @@ docs/
 ## Dependency direction
 
 ```text
-Eizo UI
+Eikura UI
    |
    v
 Eizo.Playback.LibVLC.WinUI
@@ -53,7 +55,7 @@ Eizo.Playback.LibVLC.WinUI
             LibVLC
 ```
 
-The Eizo application does not need to reference LibVLCSharp directly.
+The Eikura application does not need to reference LibVLCSharp directly.
 
 ## Current status
 

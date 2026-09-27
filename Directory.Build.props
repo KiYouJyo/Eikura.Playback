@@ -9,10 +9,10 @@
 
     <VersionPrefix>0.2.3</VersionPrefix>
     <Authors>KiYouJyo</Authors>
-    <RepositoryUrl>https://github.com/KiYouJyo/Eizo.Playback</RepositoryUrl>
+    <RepositoryUrl>https://github.com/KiYouJyo/Eikura.Playback</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/KiYouJyo/Eizo.Playback</PackageProjectUrl>
-    <PackageTags>eizo;media;playback;libvlc;winui;video;audio</PackageTags>
+    <PackageProjectUrl>https://github.com/KiYouJyo/Eikura.Playback</PackageProjectUrl>
+    <PackageTags>eikura;eizo;media;playback;libvlc;winui;video;audio</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>

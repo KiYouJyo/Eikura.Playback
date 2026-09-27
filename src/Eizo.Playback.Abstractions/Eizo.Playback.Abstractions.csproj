@@ -3,6 +3,6 @@
     <TargetFramework>net10.0</TargetFramework>
     <AssemblyName>Eizo.Playback.Abstractions</AssemblyName>
     <RootNamespace>Eizo.Playback</RootNamespace>
-    <Description>Backend-neutral playback contracts for Eizo.</Description>
+    <Description>Backend-neutral playback contracts for Eikura.</Description>
   </PropertyGroup>
 </Project>
